@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey!
+If you contact me over e-mail there is a good chance that I won't read it...
+Currently learning to program since 2016
 
 <!--
 **Florian-Hagemann/Florian-Hagemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

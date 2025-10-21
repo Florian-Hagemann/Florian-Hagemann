@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a high school student from germany, who is interested in backend coding.<br>I am currently learning c++
+I'm a high school student from germany, who has been interested in coding since being a kid. I love solving problems and making fun projects and I'm interested in open source.
 
 
 # 💻 Tech Stack:
